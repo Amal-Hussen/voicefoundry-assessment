@@ -8,7 +8,6 @@ During the course of completing this challenge, I familiarised myself with AWS s
 2. What shortcuts did you take that would be bad practise in production?
 
 A shortcut I took during this challenge was pushing the project onto GitHub as opposed to deploying on AWS. I would like to learn in future how to deploy changes like these on AWS.
-
 3. What would you have done with more time?
 
-With more time, I would have like to test this function out and attempted to save the vanity numbers on another AWS service like Simple Storage Service. I would have also enjoyed making my contact flow more challenging and reaistic to a clients actual call flow.
+With more time, I would have like to test this function out and attempted to save the vanity numbers on another AWS service like Simple Storage Service. I would have also enjoyed making my contact flow as it seems interesting.  
